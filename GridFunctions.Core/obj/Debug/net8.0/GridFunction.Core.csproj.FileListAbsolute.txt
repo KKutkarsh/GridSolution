@@ -1,0 +1,11 @@
+C:\Users\UtkarshK\Desktop\Practice\GridFunctions.Core\bin\Debug\net8.0\GridFunction.Core.deps.json
+C:\Users\UtkarshK\Desktop\Practice\GridFunctions.Core\bin\Debug\net8.0\GridFunction.Core.dll
+C:\Users\UtkarshK\Desktop\Practice\GridFunctions.Core\bin\Debug\net8.0\GridFunction.Core.pdb
+C:\Users\UtkarshK\Desktop\Practice\GridFunctions.Core\obj\Debug\net8.0\GridFunction.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UtkarshK\Desktop\Practice\GridFunctions.Core\obj\Debug\net8.0\GridFunction.Core.AssemblyInfoInputs.cache
+C:\Users\UtkarshK\Desktop\Practice\GridFunctions.Core\obj\Debug\net8.0\GridFunction.Core.AssemblyInfo.cs
+C:\Users\UtkarshK\Desktop\Practice\GridFunctions.Core\obj\Debug\net8.0\GridFunction.Core.csproj.CoreCompileInputs.cache
+C:\Users\UtkarshK\Desktop\Practice\GridFunctions.Core\obj\Debug\net8.0\GridFunction.Core.dll
+C:\Users\UtkarshK\Desktop\Practice\GridFunctions.Core\obj\Debug\net8.0\refint\GridFunction.Core.dll
+C:\Users\UtkarshK\Desktop\Practice\GridFunctions.Core\obj\Debug\net8.0\GridFunction.Core.pdb
+C:\Users\UtkarshK\Desktop\Practice\GridFunctions.Core\obj\Debug\net8.0\ref\GridFunction.Core.dll

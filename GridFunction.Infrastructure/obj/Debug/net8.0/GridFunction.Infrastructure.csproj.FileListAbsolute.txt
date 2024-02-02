@@ -1,0 +1,15 @@
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\bin\Debug\net8.0\GridFunction.Infrastructure.deps.json
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\bin\Debug\net8.0\GridFunction.Infrastructure.dll
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\bin\Debug\net8.0\GridFunction.Infrastructure.pdb
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\bin\Debug\net8.0\GridFunction.Core.dll
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\bin\Debug\net8.0\GridFunction.Core.pdb
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\obj\Debug\net8.0\GridFunction.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\obj\Debug\net8.0\GridFunction.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\obj\Debug\net8.0\GridFunction.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\obj\Debug\net8.0\GridFunction.Infrastructure.AssemblyInfo.cs
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\obj\Debug\net8.0\GridFunction.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\obj\Debug\net8.0\GridFunction.Infrastructure.csproj.CopyComplete
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\obj\Debug\net8.0\GridFunction.Infrastructure.dll
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\obj\Debug\net8.0\refint\GridFunction.Infrastructure.dll
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\obj\Debug\net8.0\GridFunction.Infrastructure.pdb
+C:\Users\UtkarshK\Desktop\Practice\GridFunction.Infrastructure\obj\Debug\net8.0\ref\GridFunction.Infrastructure.dll

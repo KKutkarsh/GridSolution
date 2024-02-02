@@ -1,0 +1,77 @@
+{
+	"info": {
+		"_postman_id": "e1751a32-b32f-47c0-b44c-d621f9bee9ed",
+		"name": "GridSolution",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19098698",
+		"_collection_link": "https://lunar-star-180437.postman.co/workspace/Sharepoint_Automedic~b78c4e27-1a44-429e-b5f5-5948934a80d1/collection/19098698-e1751a32-b32f-47c0-b44c-d621f9bee9ed?action=share&source=collection_link&creator=19098698"
+	},
+	"item": [
+		{
+			"name": "API 1",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"StartDate\": \"2024-02-2T15:00:00.000Z\",\r\n    \"EndDate\": \"2024-02-10 19:00:00.000Z\",\r\n    \"CollectedDate\": \"2024-02-03 07:00:00.000Z\",\r\n     /*use either NodeName or Node Id --if both are provided with Node Id .0 will take precedence --if both not provided it will only query based on start and end date */\r\n    \"NodeName\": null,\r\n    \"NodeId\": 0\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:7240/api/grid/latest",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "7240",
+					"path": [
+						"api",
+						"grid",
+						"latest"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "API 2",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"StartDate\": \"2024-02-2T15:00:00.000Z\",\r\n    \"EndDate\": \"2024-02-10 19:00:00.000Z\",\r\n    \"CollectedDate\": \"2024-02-03 07:00:00.000Z\",\r\n     /*use either NodeName or Node Id --if both are provided with Node Id .0 will take precedence --if both not provided it will only query based on start and end date */\r\n    \"NodeName\": null,\r\n    \"NodeId\": 0\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:7240/api/grid/collected",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "7240",
+					"path": [
+						"api",
+						"grid",
+						"collected"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
